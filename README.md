@@ -1,3 +1,12 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc" align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78E0A&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Gupta" alt="Typing SVG" /></a>
+</div>
+
+
 # 💫 About Me:
 ### Hi there 👋<br>With a passion for backend development, I excel in various technologies and am a team player and quick learner. Proficiency in several languages like Go, NodeJS and Python has helped me gain exposure to the world of backend. <br>Seeking opportunities to broaden my expertise and grow my skill set.<br><br>👯 I’m looking to collaborate on any backend projects<br>
 
