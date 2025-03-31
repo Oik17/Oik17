@@ -3,7 +3,7 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78E0A&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Gupta" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00d0ff&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Gupta" alt="Typing SVG" /></a>
 </div>
 
 # 💫 About Me:
